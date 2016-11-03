@@ -31,6 +31,9 @@ Note: Some of the links are js related and some are c# related but they are expl
 9. Really nice explanaition with examples from MSDN (c#)
 [Using RX](https://msdn.microsoft.com/en-us/library/hh242981(v=vs.103).aspx)
 
+10. 101 RX samples (js) 
+[101 RX samples](http://rxwiki.wikidot.com/101samples#toc48)
+
 This list will be updated over time.
 
 Note: There are quite a lot of other resources out there - like MS introduction videos and workshops but there are quite outdated(2011 - 2012). And there is a upcoming book [Rx.NET in Action](https://www.manning.com/books/rx-dot-net-in-action) that should be released this december.
