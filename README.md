@@ -37,6 +37,7 @@ Note: Some of the links are js related and some are c# related but they are expl
 11. Video examples (js)
 [Video examples from reactiveX](https://www.youtube.com/watch?v=Eh2aVadtYLY&index=1&list=PLTD6kKIma3nfj2hdVjtaduO0CGl2iONW2)
 
+12. Learn RXJS online book (js) [Learn RXJS](https://www.gitbook.com/book/btroncone/learn-rxjs/details)
 This list will be updated over time.
 
 Note: There are quite a lot of other resources out there - like MS introduction videos and workshops but there are quite outdated(2011 - 2012). And there is a upcoming book [Rx.NET in Action](https://www.manning.com/books/rx-dot-net-in-action) that should be released this december.
